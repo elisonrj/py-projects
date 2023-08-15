@@ -1,1 +1,1 @@
-# Projects to practice Python on useful things
+# Converts Brazilian electronic invoices from XML to XLSX
